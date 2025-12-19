@@ -6,7 +6,7 @@ export default function Settings() {
       <div>
         <h1 className="text-3xl font-bold tracking-tight">Settings</h1>
         <p className="text-muted-foreground mt-2">
-          Configure your OptiScale platform
+          Configure your Brainlabs platform
         </p>
       </div>
 

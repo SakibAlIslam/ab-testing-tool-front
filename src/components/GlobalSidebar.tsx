@@ -34,7 +34,7 @@ export function GlobalSidebar() {
         <div className="flex items-center justify-between">
           {open && (
             <h1 className="text-xl font-bold glow-text">
-              OptiScale
+              Brainlabs
             </h1>
           )}
           <ThemeToggle />

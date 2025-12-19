@@ -2,7 +2,7 @@ import { Providers } from "@/src/components/Providers";
 import "./globals.css";
 
 export const metadata = {
-  title: "OptiScale - A/B Testing Tool",
+  title: "Brainlabs - A/B Testing Tool",
   description: "Advanced A/B testing platform for optimization",
 };
 

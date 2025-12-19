@@ -62,7 +62,7 @@ export default function SignupPage() {
           <div className="flex justify-center mb-4">
             <div className="flex items-center gap-2 text-2xl font-bold">
               <FlaskConical className="h-8 w-8 text-primary" />
-              OptiScale
+              Brainlabs
             </div>
           </div>
           <CardTitle className="text-2xl">Create an account</CardTitle>
